@@ -22,35 +22,37 @@ h1 {
 
 h2 {
     width: 24px;
-}
+    }
 
 h1, h2 {
     color: white;
     text-align: center;
-}
+        }
 
 p {
     width: 14px;
     text-align: justify;
-}
+    }
 
 /* lien neutre*/
 a:link {
     color: aqua;
-}
+        }
 
 /*lien visite*/
 a:visited {
     color: blue;
-}
+    }
 
 /* couleur de souris dessus*/
 a:hover {
     color: pink;
-}
+    }
 
 img{
     width: 300px;
-}
+    }
 
+table,th,td{
+    border: 2px white;
 }
