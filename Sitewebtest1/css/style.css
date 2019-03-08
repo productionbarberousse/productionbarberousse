@@ -36,16 +36,20 @@ p {
 
 img {
     width: 300px;
+    border-radius: 10px;
 }
 
+img:hover{
+    box-shadow: 5px 5px white;
+}
 table{
+    align-items: center;
     border-collapse: collapse;
 }
 
 table, th,td{
     border: 5px white;
 }
-
 
 
 /* lien neutre*/
