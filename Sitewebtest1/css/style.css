@@ -1,0 +1,34 @@
+body
+{
+    width: 900px;
+    margin: auto;
+
+    background: rgb(255%,000%,000%);
+
+    background-image: url("../img/quote spiderman.jpg");
+    background-repeat: no-repeat;
+    margin: auto;
+
+}
+
+h1
+{
+    width: 36px;
+}
+
+h2
+{
+    width: 24px;
+}
+
+h1,h2
+{
+    color: white;
+    text-align: center;
+}
+
+p
+{
+    width: 14px;
+    text-align: justify;
+}
