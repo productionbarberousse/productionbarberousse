@@ -13,46 +13,49 @@ body {
     background-image: url("../img/quote spiderman.jpg");
     background-repeat: no-repeat;
     margin: auto;
-
+}
+h1, h2 {
+    color: white;
+    text-align: center;
+}
 h1 {
     width: 36px;
-
-}
+    }
 
 
 h2 {
     width: 24px;
     }
 
-h1, h2 {
-    color: white;
-    text-align: center;
-        }
-
 p {
     width: 14px;
     text-align: justify;
     }
 
+img {
+    width: 300px;
+}
+
+table{
+    border-collapse: collapse;
+}
+table, th,td{
+    border: 5px white;
+}
+
+
+
 /* lien neutre*/
 a:link {
     color: aqua;
-        }
+}
 
 /*lien visite*/
 a:visited {
     color: blue;
-    }
+}
 
-/* couleur de souris dessus*/
+/* couleur de souris dessus */
 a:hover {
     color: pink;
-    }
-
-img{
-    width: 300px;
-    }
-
-table,th,td{
-    border: 2px white;
 }

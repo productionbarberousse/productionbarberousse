@@ -55,20 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sitewebtest1/onePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="481">
               <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sitewebtest1/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="821">
-              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+            <state relative-caret-position="646">
+              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -182,12 +182,12 @@
       <workItem from="1550804053854" duration="277000" />
       <workItem from="1550838206383" duration="3786000" />
       <workItem from="1551397120359" duration="2503000" />
-      <workItem from="1552002889022" duration="6605000" />
+      <workItem from="1552002889022" duration="7369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13430000" />
+    <option name="totallyTimeSpent" value="14194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -259,17 +259,17 @@
     <entry file="file://$PROJECT_DIR$/Sitewebtest1/img/quote spiderman.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/onePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        <state relative-caret-position="481">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/onePage.html">
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+        <state relative-caret-position="646">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
         </state>
       </provider>
     </entry>
