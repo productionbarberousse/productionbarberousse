@@ -1,27 +1,30 @@
-body
-{
+/*premiere experience css*/
+/* programmé par Olivier Normandin */
+/* le 7 mars 2019 */
+
+
+body {
     width: 900px;
     margin: auto;
+    text-align: center;
 
-    background: rgb(255%,000%,000%);
+    background: rgb(255%, 000%, 000%);
 
     background-image: url("../img/quote spiderman.jpg");
     background-repeat: no-repeat;
     margin: auto;
 
-}
-
-h1
-{
+h1 {
     width: 36px;
+
 }
 
-h2
-{
+
+h2 {
     width: 24px;
 }
 
-h1,h2
+h1, h2
 {
     color: white;
     text-align: center;
@@ -31,4 +34,25 @@ p
 {
     width: 14px;
     text-align: justify;
+}
+
+/* lien neutre*/
+a
+{
+    color: aqua;
+}
+
+/*lien visite*/
+a:visited
+{
+    color: blue;
+}
+
+/* couleur de souris dessus*/
+a:hover
+{
+    color: pink;
+}
+
+
 }
