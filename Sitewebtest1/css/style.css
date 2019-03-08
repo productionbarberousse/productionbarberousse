@@ -24,35 +24,33 @@ h2 {
     width: 24px;
 }
 
-h1, h2
-{
+h1, h2 {
     color: white;
     text-align: center;
 }
 
-p
-{
+p {
     width: 14px;
     text-align: justify;
 }
 
 /* lien neutre*/
-a
-{
+a:link {
     color: aqua;
 }
 
 /*lien visite*/
-a:visited
-{
+a:visited {
     color: blue;
 }
 
 /* couleur de souris dessus*/
-a:hover
-{
+a:hover {
     color: pink;
 }
 
+img{
+    width: 300px;
+}
 
 }
