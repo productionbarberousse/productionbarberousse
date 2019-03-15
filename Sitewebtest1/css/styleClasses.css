@@ -54,6 +54,7 @@
     font-size: 100px;
     text-align: center;
     color: white;
+    margin: 0px;
 }
 
 .titreSecondaire
@@ -61,6 +62,7 @@
     font-family: 'Dosis', sans-serif;
     color: black;
     font-size: 50px;
+    margin: 0px;
 }
 
 /* changement de la mise en place
