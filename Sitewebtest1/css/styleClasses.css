@@ -65,6 +65,21 @@
     margin: 0px;
 }
 
+.titreTrois
+{
+    font-family: policePrincipal;
+    font-size: 20px;
+    color: black;
+    margin: auto;
+}
+.paragraphe
+{
+    font-family: 'Dosis', sans-serif;
+    color: darkslategrey;
+    font-size: 30px;
+    margin: 20px;
+}
+
 /* changement de la mise en place
 
  */
@@ -79,7 +94,7 @@ body
 table
 {
     border-collapse: collapse;
-
+    margin: auto;
 }
 table, th, td
 {
