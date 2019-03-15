@@ -1,0 +1,73 @@
+/* Test de style
+    programmée par Olivier Normandin
+    Le 14-03-2019
+ */
+
+#sectionhautdepage
+{
+    background-color: rgb(000%,000%,000%)
+}
+
+#sectionÉtudes
+{
+    background-color: rgb(000%,255%,255%);
+}
+
+#sectionLoisirs
+{
+    background-color: rgb(255%,255%,255%);
+}
+
+#sectionSports
+{
+    background-color: rgb(255%,000%,000%);
+}
+
+#sectionReves
+{
+    background-color: rgb(000%,255%,000%);
+}
+
+.belleImage
+{
+    width: 300px;
+    border: 5px solid gray;
+    border-radius: 10px;
+}
+
+.belleImage:Hover
+{
+    box-shadow: 20px 20px rgba(0, 140, 186, 0.5);
+}
+
+/* ajout de la police
+
+ */
+@font-face {
+    font-family: policePrincipal;
+    src: url("principal.ttf");
+}
+
+.titrePrincipal
+{
+ font-family: policePrincipal;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+.titreSecondaire
+{
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    font-size: 50px;
+}
+
+/* changement de la mise en place
+
+ */
+
+body
+{
+    text-align: center;
+}
