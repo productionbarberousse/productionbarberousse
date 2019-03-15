@@ -73,3 +73,21 @@ body
 {
     text-align: center;
 }
+
+/* mise du tableau au centre
+ */
+table
+{
+    border-collapse: collapse;
+
+}
+table, th, td
+{
+    text-align: center;
+    font-size:20px;
+    border: solid black;
+}
+th
+{
+    background-color: white;
+}
