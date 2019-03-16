@@ -1,0 +1,64 @@
+
+body
+{
+    width: 1000px;
+    background-color: black;
+    background-image: url("img/etoileMort.jpg");
+    background-repeat: no-repeat;
+    margin: auto;
+    text-align: center;
+}
+
+@font-face {
+    font-family: starWars;
+    src: url("font/Starjedi.ttf");
+}
+h1
+{
+    font-size: 140px;
+    color: yellow;
+    font-family: starWars;
+    margin: 0px;
+}
+h2, h3, h4
+{
+    color: white;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 72px;
+}
+
+h3
+{
+    font-size: 60px;
+}
+
+h4
+{
+    font-size: 44px;
+}
+
+p
+{
+    text-align: justify;
+    color: white;
+    font-size: 16px;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
+
+.nomDeFilm
+{
+    color: yellow;
+}
+a:link
+{
+    color: white;
+}
