@@ -1,3 +1,7 @@
+/* Style de la page Han Solo
+Programmé par Olivier Normandin
+le 16-03-2019
+ */
 
 body
 {
@@ -8,11 +12,14 @@ body
     margin: auto;
     text-align: center;
 }
+/* Ajout de la police
+ */
 
 @font-face {
     font-family: starWars;
     src: url("font/Starjedi.ttf");
 }
+
 h1
 {
     font-size: 140px;
@@ -20,6 +27,7 @@ h1
     font-family: starWars;
     margin: 0px;
 }
+
 h2, h3, h4
 {
     color: white;
@@ -54,11 +62,12 @@ img
     margin: auto;
 }
 
-.nomDeFilm
+.films
 {
     color: yellow;
 }
 a:link
 {
     color: white;
+    text-decoration: underline;
 }
