@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+            <state relative-caret-position="1569">
+              <caret line="143" selection-start-line="143" selection-end-line="143" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+            <state relative-caret-position="1207">
+              <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -93,17 +93,6 @@
               <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="Sitewebtest1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="Sitewebtest1" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -157,12 +146,12 @@
       <workItem from="1552002889022" duration="9775000" />
       <workItem from="1552603181192" duration="6411000" />
       <workItem from="1552654648476" duration="44000" />
-      <workItem from="1552738809952" duration="5273000" />
+      <workItem from="1552738809952" duration="6305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28328000" />
+    <option name="totallyTimeSpent" value="29360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -283,15 +272,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        <state relative-caret-position="1207">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        <state relative-caret-position="1569">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
         </state>
       </provider>
     </entry>
