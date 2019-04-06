@@ -10,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/exerciceMiseEnPage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+            <state relative-caret-position="617">
+              <caret line="103" column="61" lean-forward="true" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            <state relative-caret-position="787">
+              <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="137" column="28" lean-forward="true" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -53,7 +62,6 @@
         <option value="$PROJECT_DIR$/Sitewebtest1/css/styleClasses.css" />
         <option value="$PROJECT_DIR$/Sitewebtest1/onePageClasses.html" />
         <option value="$PROJECT_DIR$/Han Solo/style.css" />
-        <option value="$PROJECT_DIR$/Han Solo/index.html" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/index.html" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exercice 2.html" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exercice 3.html" />
@@ -61,16 +69,18 @@
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exercice 5.html" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exercice 6.html" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exercice 7.html" />
-        <option value="$PROJECT_DIR$/bonjourBootsStrap/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Han Solo/index.html" />
         <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
+        <option value="$PROJECT_DIR$/bonjourBootsStrap/css/style.css" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exerciceMiseEnPage.html" />
+        <option value="$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2568" />
-    <option name="y" value="248" />
+    <option name="x" value="380" />
+    <option name="y" value="180" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -130,14 +140,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1\css" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\AEC - Design et web\www\productionbarberousse\bonjourBootsStrap" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1\css" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,16 +186,18 @@
       <workItem from="1554313268172" duration="76000" />
       <workItem from="1554416622457" duration="1856000" />
       <workItem from="1554469963723" duration="328000" />
+      <workItem from="1554553423524" duration="7916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53831000" />
+    <option name="totallyTimeSpent" value="61747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17270789" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,20 +330,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2431">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sitewebtest1/css/styleClasses.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -360,13 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -374,17 +365,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        <state relative-caret-position="787">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/exerciceMiseEnPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="105" column="10" selection-start-line="105" selection-start-column="10" selection-end-line="105" selection-end-column="10" />
+        <state relative-caret-position="617">
+          <caret line="103" column="61" lean-forward="true" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="98" lean-forward="true" selection-start-line="23" selection-start-column="98" selection-end-line="23" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="137" column="28" lean-forward="true" selection-start-line="137" selection-start-column="28" selection-end-line="137" selection-end-column="28" />
         </state>
       </provider>
     </entry>
