@@ -65,3 +65,11 @@ html, body
 {
     padding: 0px;
 }
+.profilepic
+{
+    max-width: 200px;
+}
+.commentpic
+{
+    max-width: 100px;
+}
