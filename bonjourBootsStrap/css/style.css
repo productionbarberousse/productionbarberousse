@@ -73,3 +73,7 @@ html, body
 {
     max-width: 100px;
 }
+.statuspadingcell
+{
+    padding-right: 300px;
+}
