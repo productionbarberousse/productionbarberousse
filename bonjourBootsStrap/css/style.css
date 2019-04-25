@@ -77,3 +77,42 @@ html, body
 {
     padding-right: 300px;
 }
+.parallax1
+{
+    background-image: url("../img/juliePrincipal.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2
+{
+    background-image: url("../img/julieBeachbody.jpg");
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3
+{
+    background-image: url("../img/juliereflet2.jpg");
+    height: 200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carrejaune
+{
+    background-color: rgba(224,217,29,.5);
+}
+
+.rectancleblanc
+{
+    background-color: rgba(255,255,255,.5);
+}

@@ -10,29 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/exerciceMiseEnPage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1547">
-              <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html">
+        <entry file="file://$PROJECT_DIR$/sommatif2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="84" column="56" lean-forward="true" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
+            <state relative-caret-position="838">
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sommatif2/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -42,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -71,16 +62,19 @@
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exercice 7.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Han Solo/index.html" />
-        <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/exerciceMiseEnPage.html" />
-        <option value="$PROJECT_DIR$/bonjourBootsStrap/css/style.css" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html" />
+        <option value="$PROJECT_DIR$/bonjourBootsStrap/css/style.css" />
+        <option value="$PROJECT_DIR$/bonjourBootsStrap/thedfordPage.html" />
+        <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
+        <option value="$PROJECT_DIR$/sommatif2/css/style.css" />
+        <option value="$PROJECT_DIR$/sommatif2/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="503" />
-    <option name="y" value="124" />
+    <option name="x" value="2526" />
+    <option name="y" value="248" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -89,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,31 +99,17 @@
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="bonjourBootsStrap" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="bonjourBootsStrap" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="bonjourBootsStrap" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="Sitewebtest1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
+              <item name="sommatif2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,14 +121,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\bonjourBootsStrap" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1\css" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\sommatif2" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\bonjourBootsStrap" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,18 +169,20 @@
       <workItem from="1554416622457" duration="1856000" />
       <workItem from="1554469963723" duration="328000" />
       <workItem from="1554553423524" duration="8761000" />
-      <workItem from="1555022459233" duration="5089000" />
+      <workItem from="1555022459233" duration="5843000" />
+      <workItem from="1555626120977" duration="11652000" />
+      <workItem from="1556231892123" duration="2565000" />
+      <workItem from="1556234492703" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67681000" />
+    <option name="totallyTimeSpent" value="82683000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,11 +203,11 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15831557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13486141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -247,20 +231,6 @@
     <entry file="file://$PROJECT_DIR$/Introdution Css/css/style.css" />
     <entry file="file://$PROJECT_DIR$/Sitewebtest1/img/quote spiderman.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/reves.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/sport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sitewebtest1/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -359,31 +329,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/img/juliePrincipal.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/img/julieReflet.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/img/julieBeachbody.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/img/juliePushup.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/img/juliereflet2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/img/julieReflet3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/img/julieBouffe.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        <state relative-caret-position="1348">
+          <caret line="89" column="42" lean-forward="true" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/sport.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/reves.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="98" lean-forward="true" selection-start-line="23" selection-start-column="98" selection-end-line="23" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/exerciceMiseEnPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -394,17 +378,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/thedfordPage.html" />
     <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="1972">
+          <caret line="116" column="43" selection-start-line="116" selection-start-column="43" selection-end-line="116" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html">
+    <entry file="file://$PROJECT_DIR$/sommatif2/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sommatif2/img/julieReflet3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sommatif2/img/juliereflet2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sommatif2/img/julieReflet.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonjourBootsStrap/exerciceMiseEnPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="84" column="56" lean-forward="true" selection-start-line="84" selection-start-column="56" selection-end-line="84" selection-end-column="56" />
+        <state relative-caret-position="861">
+          <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sommatif2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sommatif2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
         </state>
       </provider>
     </entry>
