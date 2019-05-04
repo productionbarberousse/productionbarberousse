@@ -10,20 +10,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sommatif2/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testvideo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-782">
+            <state relative-caret-position="85">
               <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sommatif2/css/style.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+            <state relative-caret-position="425">
+              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testvideo/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="838">
+              <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -66,9 +75,11 @@
         <option value="$PROJECT_DIR$/bonjourBootsStrap/testFacebook.html" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/css/style.css" />
         <option value="$PROJECT_DIR$/bonjourBootsStrap/thedfordPage.html" />
-        <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
         <option value="$PROJECT_DIR$/sommatif2/css/style.css" />
         <option value="$PROJECT_DIR$/sommatif2/index.html" />
+        <option value="$PROJECT_DIR$/testvideo/css/style.css" />
+        <option value="$PROJECT_DIR$/testvideo/index.html" />
+        <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
       </list>
     </option>
   </component>
@@ -83,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,23 +105,12 @@
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="bonjourBootsStrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="Sitewebtest1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="sommatif2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,15 +122,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1\css" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\testvideo" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\sommatif2" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\bonjourBootsStrap" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1\css" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,16 +176,18 @@
       <workItem from="1556231892123" duration="2565000" />
       <workItem from="1556234492703" duration="31000" />
       <workItem from="1556887999291" duration="73000" />
+      <workItem from="1556971762230" duration="2499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82756000" />
+    <option name="totallyTimeSpent" value="85255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -420,17 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sommatif2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-782">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="2108">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
         </state>
       </provider>
     </entry>
@@ -438,6 +435,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testvideo/Sommatif 3/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testvideo/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sommatif3/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testvideo/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testvideo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
         </state>
       </provider>
     </entry>
