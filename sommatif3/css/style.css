@@ -9,22 +9,35 @@ html, body
     color: white;
 }
 
-.paddingtop
+@font-face
 {
-    padding-top: 50px;
+    font-family: hero;
+    src: url("../font/heros.ttf");
 }
-.paddingbottom
+.titrePrincipal
 {
-    padding-bottom: 50px;
+    font-family: hero;
+}
+.titreSecondaire
+{
+    font-family: 'Montserrat', sans-serif;
 }
 .padding0
 {
     padding: 0px;
 }
+ .imgbacktop
+ {
+     background-color: white;
+     height: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+ }
+
 .parallax1
 {
-    background-image: url("../img/juliePushup.jpg");
-    height: 100%;
+    background-image: url("../img/Marvel web.jpg");
+    height: 700px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -33,7 +46,7 @@ html, body
 
 .parallax2
 {
-    background-image: url("../img/julieBeachbody.jpg");
+    background-image: url("../img/DC web.jpg");
     height: 700px;
     background-attachment: fixed;
     background-position: center;
@@ -41,34 +54,61 @@ html, body
     background-size: cover;
 }
 
-.parallax3
+.carrenoir
 {
-    background-image: url("../img/juliereflet2.jpg");
-    height: 700px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.carrejaune
-{
-    background-color: rgba(224,217,29,.5);
+    background-color: rgba(0,0,0,.5);
 }
 
 .rectancleblanc
 {
-    background-color: rgba(255,255,255,.5);
-}
-.fondvert
-{
-    background-color: green;
-}
-.fondbrun
-{
-    background-color: burlywood;
+    background-color: rgba(255,255,255,.75);
 }
 .fondbleu
 {
     background-color: dodgerblue;
+}
+.fondrouge
+{
+    background-color: red;
+}
+
+header
+{
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+header video
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+header .container
+{
+    position: relative;
+    z-index: 2;
+}
+header .overlay
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.3;
+    z-index: 1;
 }
