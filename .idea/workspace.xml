@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/navbar/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="73" lean-forward="true" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
+            <state relative-caret-position="549">
+              <caret line="215" column="36" lean-forward="true" selection-start-line="215" selection-start-column="36" selection-end-line="215" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -70,10 +70,10 @@
         <option value="$PROJECT_DIR$/sommatif2/index.html" />
         <option value="$PROJECT_DIR$/testvideo/css/style.css" />
         <option value="$PROJECT_DIR$/testvideo/index.html" />
-        <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
         <option value="$PROJECT_DIR$/sommatif3/css/style.css" />
         <option value="$PROJECT_DIR$/sommatif3/index.html" />
         <option value="$PROJECT_DIR$/navbar/css/style.css" />
+        <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
         <option value="$PROJECT_DIR$/navbar/index.html" />
       </list>
     </option>
@@ -111,23 +111,6 @@
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="navbar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="navbar" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="navbar" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
@@ -209,12 +192,12 @@
       <workItem from="1557411474269" duration="688000" />
       <workItem from="1557862254743" duration="4476000" />
       <workItem from="1558101954847" duration="127000" />
-      <workItem from="1558479019349" duration="5964000" />
+      <workItem from="1558479019349" duration="6212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104296000" />
+    <option name="totallyTimeSpent" value="104544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -443,13 +426,6 @@
     <entry file="file://$PROJECT_DIR$/sommatif3/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="61" lean-forward="true" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testvideo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -523,10 +499,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sitewebtest1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="64" lean-forward="true" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/navbar/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="73" lean-forward="true" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
+        <state relative-caret-position="549">
+          <caret line="215" column="36" lean-forward="true" selection-start-line="215" selection-start-column="36" selection-end-line="215" selection-end-column="36" />
         </state>
       </provider>
     </entry>
