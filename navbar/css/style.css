@@ -127,6 +127,7 @@ header .overlay
 ***************************************************************************** */
 .navbar {
     background-color: #909090;
+    opacity: 0.75;
 }
 .navbar .navbar-brand {
     color: #ffeeee;
@@ -266,4 +267,9 @@ header .overlay
 .navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #090909;
     background-color: #279ff1;
+}
+#navbarNavAltMarkup > div > a.nav-item.nav-link.active
+{
+    color: white;
+    background-color: black;
 }
