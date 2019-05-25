@@ -45,7 +45,7 @@ html, body
 
 .parallax1
 {
-    background-image: url("../img/classeur.jpg");
+    background-image: url("../img/equipe.jpg");
     height: 700px;
     background-attachment: fixed;
     background-position: center;
@@ -74,7 +74,7 @@ html, body
 }
 .fondbleu
 {
-    background-color: dodgerblue;
+    background-color: #092d74;
 }
 .fondrouge
 {

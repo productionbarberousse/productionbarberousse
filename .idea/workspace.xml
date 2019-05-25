@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="43" column="78" lean-forward="true" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
+            <state relative-caret-position="141">
+              <caret line="210" column="44" lean-forward="true" selection-start-line="210" selection-start-column="44" selection-end-line="210" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/pret.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2827">
-              <caret line="204" column="38" lean-forward="true" selection-start-line="204" selection-start-column="38" selection-end-line="204" selection-end-column="38" />
+            <state relative-caret-position="702">
+              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
               <folding>
                 <element signature="e#9616#9623#1" expanded="true" />
               </folding>
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/service.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="34" column="70" lean-forward="true" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+            <state relative-caret-position="362">
+              <caret line="24" column="110" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -43,8 +43,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="268" column="1" lean-forward="true" selection-start-line="268" selection-start-column="1" selection-end-line="268" selection-end-column="1" />
+            <state relative-caret-position="100">
+              <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+              <folding>
+                <element signature="e#2167#2201#0" />
+                <element signature="e#2224#2247#0" />
+                <element signature="e#2305#2328#0" />
+                <element signature="e#2350#2373#0" />
+                <element signature="e#2397#2420#0" />
+                <element signature="e#2480#2503#0" />
+                <element signature="e#2534#2606#0" />
+                <element signature="e#2710#2733#0" />
+                <element signature="e#2769#2830#0" />
+                <element signature="e#2881#2904#0" />
+                <element signature="e#3076#3130#0" />
+                <element signature="e#3184#3218#0" />
+                <element signature="e#3524#3578#0" />
+                <element signature="e#3602#3632#0" />
+                <element signature="e#3692#3726#0" />
+                <element signature="e#3771#3794#0" />
+                <element signature="e#3842#3872#0" />
+                <element signature="e#3894#3917#0" />
+                <element signature="e#3945#3968#0" />
+                <element signature="e#3970#4430#0" />
+                <element signature="e#4253#4284#0" />
+                <element signature="e#4362#4428#0" />
+                <element signature="e#4432#4892#0" />
+                <element signature="e#4530#4561#0" />
+                <element signature="e#4715#4746#0" />
+                <element signature="e#4824#4890#0" />
+                <element signature="e#4894#5354#0" />
+                <element signature="e#5356#5817#0" />
+                <element signature="e#5882#5905#0" />
+                <element signature="e#6045#6068#0" />
+                <element signature="e#6139#6193#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,10 +130,10 @@
         <option value="$PROJECT_DIR$/navbar/index.html" />
         <option value="$PROJECT_DIR$/bibliotheque/index.html" />
         <option value="$PROJECT_DIR$/Sitewebtest1/index.html" />
-        <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html" />
-        <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/pret.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/service.html" />
+        <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/pret.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/css/style.css" />
+        <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html" />
       </list>
     </option>
   </component>
@@ -218,16 +251,15 @@
       <workItem from="1557862254743" duration="4476000" />
       <workItem from="1558101954847" duration="127000" />
       <workItem from="1558479019349" duration="9143000" />
-      <workItem from="1558788694864" duration="4028000" />
+      <workItem from="1558788694864" duration="8748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111503000" />
+    <option name="totallyTimeSpent" value="116223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14978679" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -522,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/pret.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2827">
-          <caret line="204" column="38" lean-forward="true" selection-start-line="204" selection-start-column="38" selection-end-line="204" selection-end-column="38" />
+        <state relative-caret-position="702">
+          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
           <folding>
             <element signature="e#9616#9623#1" expanded="true" />
           </folding>
@@ -532,22 +564,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/service.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" column="70" lean-forward="true" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+        <state relative-caret-position="362">
+          <caret line="24" column="110" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="110" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="268" column="1" lean-forward="true" selection-start-line="268" selection-start-column="1" selection-end-line="268" selection-end-column="1" />
+        <state relative-caret-position="100">
+          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="e#2167#2201#0" />
+            <element signature="e#2224#2247#0" />
+            <element signature="e#2305#2328#0" />
+            <element signature="e#2350#2373#0" />
+            <element signature="e#2397#2420#0" />
+            <element signature="e#2480#2503#0" />
+            <element signature="e#2534#2606#0" />
+            <element signature="e#2710#2733#0" />
+            <element signature="e#2769#2830#0" />
+            <element signature="e#2881#2904#0" />
+            <element signature="e#3076#3130#0" />
+            <element signature="e#3184#3218#0" />
+            <element signature="e#3524#3578#0" />
+            <element signature="e#3602#3632#0" />
+            <element signature="e#3692#3726#0" />
+            <element signature="e#3771#3794#0" />
+            <element signature="e#3842#3872#0" />
+            <element signature="e#3894#3917#0" />
+            <element signature="e#3945#3968#0" />
+            <element signature="e#3970#4430#0" />
+            <element signature="e#4253#4284#0" />
+            <element signature="e#4362#4428#0" />
+            <element signature="e#4432#4892#0" />
+            <element signature="e#4530#4561#0" />
+            <element signature="e#4715#4746#0" />
+            <element signature="e#4824#4890#0" />
+            <element signature="e#4894#5354#0" />
+            <element signature="e#5356#5817#0" />
+            <element signature="e#5882#5905#0" />
+            <element signature="e#6045#6068#0" />
+            <element signature="e#6139#6193#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="43" column="78" lean-forward="true" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
+        <state relative-caret-position="141">
+          <caret line="210" column="44" lean-forward="true" selection-start-line="210" selection-start-column="44" selection-end-line="210" selection-end-column="44" />
         </state>
       </provider>
     </entry>
