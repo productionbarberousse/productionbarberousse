@@ -1,0 +1,71 @@
+<!-- Bibliothèque Cégep TR
+programmé par Olivier Normandin
+le 25 mai 2019 -->
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>formulaire</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:900" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,initial-scale=1, shrink-to-fit=no">
+
+
+</head>
+<body>
+<form action="formulaireEnvoye.html">
+    <div class="form-group">
+        <label for="nomdefamille">Nom de famille</label>
+        <input type="text" class="form-text" id="nomdefamille" aria-labelledby="nomdefamille" placeholder="Nom de famille">
+    </div>
+
+    <div class="form-group">
+        <label for="prenom">Prénom</label>
+        <input type="text" class="form-text"id="prenom" aria-labelledby="prenom" placeholder="Prénom">
+    </div>
+
+    <div class="form-group">
+        <label for="module">Module préféré dans votre le cours</label>
+        <br>
+        <select name="modulecours" id="module">
+            <option selected>Choisir</option>
+            <option value="1">HTML</option>
+            <option value="2">CSS</option>
+            <option value="3">Bootstrap</option>
+            <option value="4">Division grid</option>
+            <option value="5">Navbar</option>
+        </select>
+    </div>
+
+    <h5>Priorité</h5>
+
+    <div class="form-check">
+        <input  class="form-check-input" type="radio" name="priorite" id="urgent" value="option1" checked>
+        <label class="form-check-label" for="urgent">Urgent</label>
+    </div>
+    <div class="form-check">
+        <input  class="form-check-input" type="radio" name="priorite" id="important" value="option2" checked>
+        <label class="form-check-label" for="important">Important</label>
+    </div>
+    <div class="form-check">
+        <input  class="form-check-input" type="radio" name="priorite" id="peutattendre" value="option3" checked>
+        <label class="form-check-label" for="peutattendre">Peut attendre</label>
+    </div>
+    <br>
+    <button type="reset" class="btn btn-danger">Effacer le tout</button>
+    <button type="submit" class="btn btn-success">Envoyé</button>
+
+</form>
+
+
+
+<script src="js/jquery-3.3.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>

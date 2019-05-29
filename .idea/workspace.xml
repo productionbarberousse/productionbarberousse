@@ -11,73 +11,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="210" column="44" lean-forward="true" selection-start-line="210" selection-start-column="44" selection-end-line="210" selection-end-column="44" />
+            <state relative-caret-position="408">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/pret.html">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/recherche.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-              <folding>
-                <element signature="e#9616#9623#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/service.html">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/formulaireEnvoye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="24" column="110" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="110" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-              <folding>
-                <element signature="e#2167#2201#0" />
-                <element signature="e#2224#2247#0" />
-                <element signature="e#2305#2328#0" />
-                <element signature="e#2350#2373#0" />
-                <element signature="e#2397#2420#0" />
-                <element signature="e#2480#2503#0" />
-                <element signature="e#2534#2606#0" />
-                <element signature="e#2710#2733#0" />
-                <element signature="e#2769#2830#0" />
-                <element signature="e#2881#2904#0" />
-                <element signature="e#3076#3130#0" />
-                <element signature="e#3184#3218#0" />
-                <element signature="e#3524#3578#0" />
-                <element signature="e#3602#3632#0" />
-                <element signature="e#3692#3726#0" />
-                <element signature="e#3771#3794#0" />
-                <element signature="e#3842#3872#0" />
-                <element signature="e#3894#3917#0" />
-                <element signature="e#3945#3968#0" />
-                <element signature="e#3970#4430#0" />
-                <element signature="e#4253#4284#0" />
-                <element signature="e#4362#4428#0" />
-                <element signature="e#4432#4892#0" />
-                <element signature="e#4530#4561#0" />
-                <element signature="e#4715#4746#0" />
-                <element signature="e#4824#4890#0" />
-                <element signature="e#4894#5354#0" />
-                <element signature="e#5356#5817#0" />
-                <element signature="e#5882#5905#0" />
-                <element signature="e#6045#6068#0" />
-                <element signature="e#6139#6193#0" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -134,12 +89,16 @@
         <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/pret.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/css/style.css" />
         <option value="$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html" />
+        <option value="$PROJECT_DIR$/intégrationweb2/fomulaire/matheriautque.html" />
+        <option value="$PROJECT_DIR$/intégrationweb2/fomulaire/outils.html" />
+        <option value="$PROJECT_DIR$/intégrationweb2/fomulaire/formulaireEnvoye.html" />
+        <option value="$PROJECT_DIR$/intégrationweb2/fomulaire/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="299" />
-    <option name="y" value="196" />
+    <option name="x" value="355" />
+    <option name="y" value="146" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -148,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,20 +124,12 @@
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="bibliotheque" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="bibliotheque" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="fomulaire" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,18 +141,18 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\bibliotheque" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\testvideo" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\sommatif2" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\bonjourBootsStrap" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\integrationweb1" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1\css" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\Sitewebtest1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\bibliotheque" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\testvideo" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\sommatif2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -252,16 +204,18 @@
       <workItem from="1558101954847" duration="127000" />
       <workItem from="1558479019349" duration="9143000" />
       <workItem from="1558788694864" duration="8748000" />
+      <workItem from="1559082832351" duration="6438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116223000" />
+    <option name="totallyTimeSpent" value="122661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14978679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -307,41 +261,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/exercice 5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/exercice 2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/exercice 3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/exercice 6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/exercice 7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sitewebtest1/img/baseball.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -552,13 +471,20 @@
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/matheriautque.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/pret.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
+        <state relative-caret-position="323">
           <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-          <folding>
-            <element signature="e#9616#9623#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,48 +497,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-          <folding>
-            <element signature="e#2167#2201#0" />
-            <element signature="e#2224#2247#0" />
-            <element signature="e#2305#2328#0" />
-            <element signature="e#2350#2373#0" />
-            <element signature="e#2397#2420#0" />
-            <element signature="e#2480#2503#0" />
-            <element signature="e#2534#2606#0" />
-            <element signature="e#2710#2733#0" />
-            <element signature="e#2769#2830#0" />
-            <element signature="e#2881#2904#0" />
-            <element signature="e#3076#3130#0" />
-            <element signature="e#3184#3218#0" />
-            <element signature="e#3524#3578#0" />
-            <element signature="e#3602#3632#0" />
-            <element signature="e#3692#3726#0" />
-            <element signature="e#3771#3794#0" />
-            <element signature="e#3842#3872#0" />
-            <element signature="e#3894#3917#0" />
-            <element signature="e#3945#3968#0" />
-            <element signature="e#3970#4430#0" />
-            <element signature="e#4253#4284#0" />
-            <element signature="e#4362#4428#0" />
-            <element signature="e#4432#4892#0" />
-            <element signature="e#4530#4561#0" />
-            <element signature="e#4715#4746#0" />
-            <element signature="e#4824#4890#0" />
-            <element signature="e#4894#5354#0" />
-            <element signature="e#5356#5817#0" />
-            <element signature="e#5882#5905#0" />
-            <element signature="e#6045#6068#0" />
-            <element signature="e#6139#6193#0" />
-          </folding>
+        <state relative-caret-position="-524">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html">
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/pret.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/recherche.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="210" column="44" lean-forward="true" selection-start-line="210" selection-start-column="44" selection-end-line="210" selection-end-column="44" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/formulaireEnvoye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
