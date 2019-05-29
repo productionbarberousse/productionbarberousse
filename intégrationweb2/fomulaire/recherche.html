@@ -39,8 +39,7 @@ le 25 mai 2019 -->
             <h1>Recherche d'un forfait voyage</h1>
         </div>
     </div>
-    <div class="row align-items-center text-center">
-        <form action="formulaireEnvoye.html">
+        <form action="formulaireEnvoye.html" class="align-items-center text-center">
             <div class="form-row">
                 <div class="col-xl-4">
                     <input type="text" class="form-control" placeholder="Nom">                    
@@ -65,7 +64,27 @@ le 25 mai 2019 -->
             </div>
         </form>
 
-    </div>
+    <br>
+
+    <form action="formulaireEnvoye.html">
+        <div class="form-group form-row">
+            <label for="destination">Choix de destination</label>
+           <div class="col-xl-10">
+               <select name="destination" id="destination">
+                   <option selected>Choisir</option>
+                   <option value="1">HTML</option>
+                   <option value="2">CSS</option>
+                   <option value="3">Bootstrap</option>
+                   <option value="4">Division grid</option>
+                   <option value="5">Navbar</option>
+               </select>
+
+           </div>
+
+        </div>
+
+    </form>
+
 </div>
 
 
