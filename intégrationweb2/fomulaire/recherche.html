@@ -1,4 +1,4 @@
-<!-- Bibliothèque Cégep TR
+<!-- recherche de voyage
 programmé par Olivier Normandin
 le 25 mai 2019 -->
 
@@ -7,7 +7,7 @@ le 25 mai 2019 -->
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>cegeptrbiblio</title>
+    <title>Recherche de voyage</title>
 
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
@@ -39,51 +39,129 @@ le 25 mai 2019 -->
             <h1>Recherche d'un forfait voyage</h1>
         </div>
     </div>
-        <form action="formulaireEnvoye.html" class="align-items-center text-center">
-            <div class="form-row">
-                <div class="col-xl-4">
-                    <input type="text" class="form-control" placeholder="Nom">                    
+        <div class="container-fluid">
+            <form action="formulaireEnvoye.html" class="align-items-center text-center">
+                <div class="form-row">
+                    <div class="col-xl-4">
+                        <input type="text" class="form-control" placeholder="Nom">
+                    </div>
+                    <div class="col-xl-4">
+                        <input type="text" class="form-control" placeholder="Prénom">
+                    </div>
+                    <div class="col-xl-4">
+                        <input type="text" class="form-control" placeholder="Adresse">
+                    </div>
                 </div>
-                <div class="col-xl-4">
-                    <input type="text" class="form-control" placeholder="Prénom">
+                <div class="form-row">
+                    <div class="col-xl-5">
+                        <input type="text" class="form-control" placeholder="Ville">
+                    </div>
+                    <div class="col-xl-2">
+                        <input type="text" class="form-control"placeholder="Code postal">
+                    </div>
+                    <div class="col-xl-5">
+                        <input type="tel" class="form-control" placeholder="Numéro de téléphone">
+                    </div>
                 </div>
-                <div class="col-xl-4">
-                    <input type="text" class="form-control" placeholder="Adresse">
+            </form>
+
+
+        <br>
+
+        <form action="formulaireEnvoye.html">
+            <div class="form-group form-row">
+                <label for="destination">Choix de destination</label>
+               <div class="col-xl-10">
+                   <select name="destination" id="destination">
+                       <option selected>Choisir</option>
+                       <option value="1">Mexique</option>
+                       <option value="2">France</option>
+                       <option value="3">Colombie</option>
+                       <option value="4">Cuba</option>
+                       <option value="5">Espagne</option>
+                       <option value="6">Grèce</option>
+                       <option value="7">Italie</option>
+                   </select>
+               </div>
+
+
+                <div class="form-group col-xl-3">
+                <label for="datededepart">Date de départ</label>
+                <input type="date" class="form-control" id="datededepart" placeholder="date de départ">
                 </div>
-            </div>
-            <div class="form-row">
+                <div class="form-group col-xl-3">
+                    <label for="datederetour">Date de retour</label>
+                    <input type="date" class="form-control" id="datederetour" placeholder="date de départ">
+                </div>
+                <div class="form-group col-xl-3">
+                    <label for="nombreadulte">Nombre d'adultes</label>
+                    <input type="number" class="form-control"id="nombreadulte" placeholder="nombre d'adulte">
+                </div>
+                <div class="form-group col-xl-3">
+                    <label for="nombreenfant">Nombre d'enfant</label>
+                    <input type="number" class="form-control"id="nombreenfant" placeholder="nombre d'enfant">
+                </div>
+
+
+                <div class="form-group col-xl-3">
+                    <label for="choixtransport">Choix de transport</label>
+                    <div class="form-check">
+                        <input  class="form-check-input" type="radio" name="priorite" id="bateau" value="option1" checked>
+                        <label class="form-check-label" for="bateau">Bateau</label>
+                    </div>
+                    <div class="form-check">
+                        <input  class="form-check-input" type="radio" name="priorite" id="train" value="option2" checked>
+                        <label class="form-check-label" for="train">Train</label>
+                    </div>
+                    <div class="form-check">
+                        <input  class="form-check-input" type="radio" name="priorite" id="avion" value="option3" checked>
+                        <label class="form-check-label" for="avion">Avion</label>
+                    </div>
+                </div>
+                <div class="form-group col-xl-3">
+                    <label for="choixsiege">Choix de siège</label>
+                    <div class="form-check">
+                        <input type="radio" class="form-check-input" name="siege" id="firstclass" value="option1" checked>
+                        <label class="form-check-label" for="firstclass">Première classe</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="radio" class="form-check-input" name="siege" id="affaires" value="option2" checked>
+                        <label class="form-check-label" for="affaires">Classe affaire</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="radio" class="form-check-input" name="siege" id="econo" value="option3" checked>
+                        <label for="econo" class="form-check-label">Classe économiqe</label>
+                    </div>
+                </div>
+                <div class="form-group col-xl-3">
+                    <label for="choixhotel">Caratéristique de l'hôtel</label>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" name="hotel" id="all" value="option1" checked>
+                        <label for="all" class="form-check-label">Tout inclus</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" name="hotel" id="beach" value="option2">
+                        <label for="beach" class="form-check-label">Sur la plage</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" name="hotel" id="golf" value="option3">
+                        <label for="golf" class="form-check-label">Près d'un golf</label>
+                    </div>
+
+                </div>
                 <div class="col-xl-5">
-                    <input type="text" class="form-control" placeholder="Ville">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.535227243197!2d-72.57001958406092!3d46.35876797912178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc7c8c0519481ed%3A0x927eff5cdafb554!2sC%C3%A9gep+de+Trois-Rivi%C3%A8res!5e0!3m2!1sfr!2sca!4v1559690801561!5m2!1sfr!2sca" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
-                <div class="col-xl-2">
-                    <input type="text" class="form-control"placeholder="Code postal">
+                <div class="col-xl-12">
+                <button type="reset" class="btn btn-danger">Effacer le tout</button>
+                <button type="submit" class="btn btn-success">Envoyé</button>
                 </div>
-                <div class="col-xl-5">
-                    <input type="tel" class="form-control" placeholder="Numéro de téléphone">
-                </div>
+
+
             </div>
+
         </form>
-
-    <br>
-
-    <form action="formulaireEnvoye.html">
-        <div class="form-group form-row">
-            <label for="destination">Choix de destination</label>
-           <div class="col-xl-10">
-               <select name="destination" id="destination">
-                   <option selected>Choisir</option>
-                   <option value="1">HTML</option>
-                   <option value="2">CSS</option>
-                   <option value="3">Bootstrap</option>
-                   <option value="4">Division grid</option>
-                   <option value="5">Navbar</option>
-               </select>
-
-           </div>
-
-        </div>
-
-    </form>
+    </div>
 
 </div>
 
