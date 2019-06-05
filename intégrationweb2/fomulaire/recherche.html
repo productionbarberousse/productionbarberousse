@@ -19,8 +19,9 @@ le 25 mai 2019 -->
 
 </head>
 <body>
+<header>
 <div class="container-fluid">
-    <div class="row">
+    <div class="row pt-xl-3 my-0">
         <div class="col-xl-8 col-md-8">
             <img class="img-fluid" src="img/CTR_Logo_RVB.png" alt="logo du cégep de Trois-Rivières" width="150px">
         </div>
@@ -33,19 +34,17 @@ le 25 mai 2019 -->
                 Téléphone: 819 376-1721</h5>
         </div>
     </div>
-
-    <div class="row text-center align-items-center">
-        <div class="col-xl-10 offset-1">
-            <h1>Recherche d'un forfait voyage</h1>
-        </div>
-    </div>
-        <div class="container-fluid">
+</header>
+        <div class="container-fluid fondbleu py-4">
+            <div class="col-xl-10 offset-1 align-items-center text-center">
+                <h1>Recherche d'un forfait voyage</h1>
+            </div>
             <form action="formulaireEnvoye.html" class="align-items-center text-center">
                 <div class="form-row">
-                    <div class="col-xl-4">
+                    <div class="col-xl-3 offset-xl-1">
                         <input type="text" class="form-control" placeholder="Nom">
                     </div>
-                    <div class="col-xl-4">
+                    <div class="col-xl-3">
                         <input type="text" class="form-control" placeholder="Prénom">
                     </div>
                     <div class="col-xl-4">
@@ -53,13 +52,13 @@ le 25 mai 2019 -->
                     </div>
                 </div>
                 <div class="form-row">
-                    <div class="col-xl-5">
+                    <div class="col-xl-4 offset-xl-1">
                         <input type="text" class="form-control" placeholder="Ville">
                     </div>
                     <div class="col-xl-2">
                         <input type="text" class="form-control"placeholder="Code postal">
                     </div>
-                    <div class="col-xl-5">
+                    <div class="col-xl-4">
                         <input type="tel" class="form-control" placeholder="Numéro de téléphone">
                     </div>
                 </div>
@@ -70,8 +69,8 @@ le 25 mai 2019 -->
 
         <form action="formulaireEnvoye.html">
             <div class="form-group form-row">
-                <label for="destination">Choix de destination</label>
-               <div class="col-xl-10">
+               <div class="col-xl-1 offset-xl-1">
+                   <label for="destination">Choix de destination</label>
                    <select name="destination" id="destination">
                        <option selected>Choisir</option>
                        <option value="1">Mexique</option>
@@ -85,25 +84,43 @@ le 25 mai 2019 -->
                </div>
 
 
-                <div class="form-group col-xl-3">
+                <div class="form-group col-xl-2">
                 <label for="datededepart">Date de départ</label>
-                <input type="date" class="form-control" id="datededepart" placeholder="date de départ">
+                <input type="date" max="2220-12-31" class="form-control" id="datededepart" placeholder="date de départ">
                 </div>
-                <div class="form-group col-xl-3">
+                <div class="form-group col-xl-2">
                     <label for="datederetour">Date de retour</label>
-                    <input type="date" class="form-control" id="datederetour" placeholder="date de départ">
+                    <input type="date" max="2220-12-31" class="form-control" id="datederetour" placeholder="date de départ">
                 </div>
-                <div class="form-group col-xl-3">
+                <div class="form-group col-xl-2">
                     <label for="nombreadulte">Nombre d'adultes</label>
-                    <input type="number" class="form-control"id="nombreadulte" placeholder="nombre d'adulte">
+                    <select class="form-control"id="nombreadulte" placeholder="nombre d'adulte">
+                        <option>-</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                        <option>7</option>
+                    </select>
                 </div>
-                <div class="form-group col-xl-3">
+                <div class="form-group col-xl-2">
                     <label for="nombreenfant">Nombre d'enfant</label>
-                    <input type="number" class="form-control"id="nombreenfant" placeholder="nombre d'enfant">
+                    <select class="form-control"id="nombreenfant" placeholder="nombre d'enfant">
+                        <option>-</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                        <option>7</option>
+                    </select>
                 </div>
 
 
-                <div class="form-group col-xl-3">
+                <div class="form-group col-xl-3 offset-xl-2">
                     <label for="choixtransport">Choix de transport</label>
                     <div class="form-check">
                         <input  class="form-check-input" type="radio" name="priorite" id="bateau" value="option1" checked>
@@ -147,16 +164,19 @@ le 25 mai 2019 -->
                         <input type="checkbox" class="form-check-input" name="hotel" id="golf" value="option3">
                         <label for="golf" class="form-check-label">Près d'un golf</label>
                     </div>
-
                 </div>
-                <div class="col-xl-5">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.535227243197!2d-72.57001958406092!3d46.35876797912178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc7c8c0519481ed%3A0x927eff5cdafb554!2sC%C3%A9gep+de+Trois-Rivi%C3%A8res!5e0!3m2!1sfr!2sca!4v1559690801561!5m2!1sfr!2sca" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
-                <div class="col-xl-12">
-                <button type="reset" class="btn btn-danger">Effacer le tout</button>
-                <button type="submit" class="btn btn-success">Envoyé</button>
+                <div class="form-row">
+                    <div class="col-xl-12 text-center align-items-center">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.535227243197!2d-72.57001958406092!3d46.35876797912178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc7c8c0519481ed%3A0x927eff5cdafb554!2sC%C3%A9gep+de+Trois-Rivi%C3%A8res!5e0!3m2!1sfr!2sca!4v1559690801561!5m2!1sfr!2sca" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
                 </div>
-
+                <div class="form-row">
+                    <div class="col-xl-12 text-center align-items-center">
+                    <button type="reset" class="btn btn-danger">Effacer le tout</button>
+                    <button type="submit" class="btn btn-success">Envoyé</button>
+                    </div>
+                </div>
 
             </div>
 
