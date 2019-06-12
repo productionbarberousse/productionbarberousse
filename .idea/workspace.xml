@@ -10,20 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/mediaquery/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="408">
+              <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/mediaquery/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+            <state relative-caret-position="656">
+              <caret line="174" column="33" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,8 +88,8 @@
         <option value="$PROJECT_DIR$/intégrationweb2/fomulaire/index.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/mediasquery/css/style.css" />
         <option value="$PROJECT_DIR$/intégrationweb2/mediasquery/index.html" />
-        <option value="$PROJECT_DIR$/intégrationweb2/mediaquery/index.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/mediaquery/css/style.css" />
+        <option value="$PROJECT_DIR$/intégrationweb2/mediaquery/index.html" />
       </list>
     </option>
   </component>
@@ -217,16 +217,15 @@
       <workItem from="1559144807706" duration="758000" />
       <workItem from="1559684451269" duration="8754000" />
       <workItem from="1560292037887" duration="2854000" />
-      <workItem from="1560297552243" duration="4352000" />
+      <workItem from="1560297552243" duration="5830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143034000" />
+    <option name="totallyTimeSpent" value="144512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -526,17 +525,17 @@
     <entry file="file://$PROJECT_DIR$/intégrationweb2/mediaquery/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/mediaquery/css/style.css">
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/mediaquery/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        <state relative-caret-position="408">
+          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/mediaquery/index.html">
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/mediaquery/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="656">
+          <caret line="174" column="33" selection-start-line="174" selection-start-column="33" selection-end-line="174" selection-end-column="33" />
         </state>
       </provider>
     </entry>

@@ -127,13 +127,36 @@ header .overlay
     {
         background-image: url("../img/imgcell.jpg");
     }
+    .titrePrincipal
+    {
+        font-family: hero;
+        font-size: 25px;
+    }
+    .titreSecondaire
+    {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 22px;
+    }
+    .titretransitoire
+    {
+        font-family: cominica;
+        font-size: 18px;
+    }
+    h3
+    {
+        font-size: 18px;
+    }
     .fondbleu
     {
-        background-color: dodgerblue;
+        background-color: pink;
     }
     .fondrouge
     {
-        background-color: red;
+        background-color: purple;
+    }
+    .margegros
+    {
+        margin-bottom: 20px;
     }
     .parallax1
     {
@@ -154,9 +177,9 @@ header .overlay
         background-repeat: no-repeat;
         background-size: cover;
     }
-    .maxwith
+    .minwith
     {
-        max-height: 567px;
+        min-height: 567px;
     }
 
 }
