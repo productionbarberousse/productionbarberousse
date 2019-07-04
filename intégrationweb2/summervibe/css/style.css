@@ -1,0 +1,354 @@
+html, body
+{
+    margin: 0;
+    height: 100%;
+}
+.bg
+{
+    background-image: url("../img/sunset-2424806_1920.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bg2
+{
+    background-image: url("../img/campfire-984020_1920.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.texteblanc
+{
+    color: white;
+}
+.textejaune
+{
+    color: greenyellow;
+}
+.bgfooter
+{
+    background-color: gainsboro;
+}
+.titreprincipal
+{
+    font-size: 150px;
+}
+.stprincipal
+{
+    font-size: 30px;
+}
+.titreprincipal2
+{
+    font-size: 96px;
+}
+.stprincipal2
+{
+    font-size: 30px;
+}
+.bgbleu
+{
+    background-color: #b3d7ff;
+}
+.bgrouge
+{
+    background-color: indianred;
+}
+.hrtitre
+{
+    padding-bottom:10px;
+    padding-top:0px;
+    max-width: 300px;
+    border-width: 2px;
+    border-color: white;
+
+}
+.fondblanc
+{
+    background-color: rgba(255,255,255,0.9);
+}
+.padding0
+{
+    padding: 0px;
+}
+ .imgbacktop
+ {
+     background-color: white;
+     height: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+ }
+
+.parallax1
+{
+    background-image: url("../img/baseball-1091211_1920.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2
+{
+    background-image: url("../img/winding-road-1556177_1920.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/****************************************************************
+                    MEDIAS QUERY
+****************************************************************/
+
+
+@media screen and (min-width: 1200px) and (max-width: 1424px)
+{
+   .stprincipal2
+   {
+       font-size: 25px;
+   }
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1213px)
+{
+    .titreprincipal
+    {
+        font-size: 148px;
+    }
+    .stprincipal
+    {
+        font-size: 25px;
+    }
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 1199px)
+{
+    .bg
+    {
+        background-image: url("../img/fire-142514_1920.jpg");
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .titreprincipal
+    {
+        font-size: 83px;
+    }
+    .stprincipal
+    {
+        font-size: 25px;
+    }
+    .titrefavicon
+    {
+        font-size: 25px;
+    }
+    .titreprincipal2
+    {
+        font-size: 25px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1035px)
+{
+    .titresportive
+    {
+        font-size: 29px;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 621px)
+{
+    .titresportive
+    {
+        font-size: 25px;
+    }
+    .carte
+    {
+        max-width: 400px;
+    }
+}
+
+@media only screen and (max-width: 575px)
+{
+    .bg
+    {
+        background-image: url("../img/man-3731007_1920.jpg");
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .titreprincipal
+    {
+        font-size: 65px;
+    }
+    .stprincipal
+    {
+        font-size: 15px;
+    }
+    .titreprincipal2
+    {
+        font-size: 57px;
+    }
+    .titresportive
+    {
+        font-size: 19px;
+    }
+    .footers
+    {
+        font-size: 12px;
+    }
+    .carte
+    {
+        max-width: 250px;
+    }
+}
+
+
+
+/**********************************************************************************
+                   MENU BURGER
+***************************************************************************** */
+.navbar {
+    background-color: #ea0808;
+}
+.navbar .navbar-brand {
+    color: #fdfdfd;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #000000;
+}
+.navbar .navbar-text {
+    color: #fdfdfd;
+}
+.navbar .navbar-text a {
+    color: #000000;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #000000;
+}
+.navbar .navbar-nav .nav-link {
+    color: #fdfdfd;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #000000;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: #ea0808;
+    border-color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #fdfdfd;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #ffffff;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle {
+    border-color: #ffffff;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #fdfdfd;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #fdfdfd;
+}
+.navbar .navbar-link {
+    color: #fdfdfd;
+}
+.navbar .navbar-link:hover {
+    color: #000000;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #fdfdfd;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #fdfdfd;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #fdfdfd;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #fdfdfd;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #fdfdfd;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #000000;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #000000;
+    background-color: #ffffff;
+}
