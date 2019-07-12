@@ -11,4 +11,4 @@ var largeur = Number (prompt("Écrivez la largeur"));
 var air = longueur * largeur;
 
 
-alert("La superficie = "+air);
+alert("La superficie = " + air);
