@@ -7,7 +7,8 @@ $("#boutonGauche").click(function() {
 });
 
 $('#boutonDroite').click(function() {
-    compteur = compteur - 50;
+    compteur = compteur + 50;
+    $('#flashID').css("right" , compteur);
 
 });
 
