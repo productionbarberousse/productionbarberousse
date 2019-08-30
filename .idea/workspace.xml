@@ -11,28 +11,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/index.html">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+            <state relative-caret-position="515">
+              <caret line="94" column="56" lean-forward="true" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/css/style.css">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="544">
+              <caret line="32" column="92" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/js/monscript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/js/monscript.js">
+        <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/js/monscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="93" column="47" lean-forward="true" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="47" />
+            <state relative-caret-position="389">
+              <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#344#352#0" />
+                <element signature="e#833#1254#0" />
+                <element signature="e#1308#1729#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,9 +66,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,9 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/intégrationweb2/mediaquery/css/style.css" />
-        <option value="$PROJECT_DIR$/intégrationweb2/mediaquery/index.html" />
-        <option value="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/header.php" />
         <option value="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/footer.php" />
         <option value="$PROJECT_DIR$/startbootstrap-business-casual-gh-pages/index.php" />
         <option value="$PROJECT_DIR$/maquette/store.html" />
@@ -105,12 +126,15 @@
         <option value="$PROJECT_DIR$/intégrationweb2/flash/css/style.css" />
         <option value="$PROJECT_DIR$/intégrationweb2/flash/index.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/flash/js/monscript.js" />
+        <option value="$PROJECT_DIR$/intégrationweb2/casseTete/css/style.css" />
+        <option value="$PROJECT_DIR$/intégrationweb2/casseTete/index.html" />
+        <option value="$PROJECT_DIR$/intégrationweb2/casseTete/js/monscript.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="549" />
-    <option name="y" value="192" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="448" />
+    <option name="y" value="306" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -129,51 +153,33 @@
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="integrationweb1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="integrationweb1" type="462c0819:PsiDirectoryNode" />
-              <item name="sommatif3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="integrationweb1" type="462c0819:PsiDirectoryNode" />
-              <item name="sommatif3" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="exercice jQuery1 StormTrooper" type="462c0819:PsiDirectoryNode" />
+              <item name="casseTete" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="flash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="flash" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="flash" type="462c0819:PsiDirectoryNode" />
+              <item name="casseTete" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
+              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="casseTete" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
+              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="flash" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
@@ -181,12 +187,6 @@
               <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
               <item name="flash" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,19 +204,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\css" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\js" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\summervibe" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\bibliotheque" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\img" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\javascript\js" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\casseTete\css" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\casseTete" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\css" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,18 +288,20 @@
       <workItem from="1566581033571" duration="6126000" />
       <workItem from="1566824610226" duration="1255000" />
       <workItem from="1566850782516" duration="1785000" />
-      <workItem from="1566911934197" duration="1041000" />
+      <workItem from="1566911934197" duration="1640000" />
+      <workItem from="1567116491736" duration="10041000" />
+      <workItem from="1567167887035" duration="4168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237958000" />
+    <option name="totallyTimeSpent" value="252766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -319,83 +321,36 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/exerciceMiseEnPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="6" lean-forward="true" selection-start-line="22" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="25" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/integrationweb1/sommatif3/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/fomulaire/recherche.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="168" column="16" selection-start-line="168" selection-start-column="16" selection-end-line="178" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maquette/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maquette/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/formulaireEnvoye.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/sport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/relaxer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -416,13 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="838">
           <caret line="189" column="20" selection-start-line="189" selection-start-column="20" selection-end-line="189" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -661,12 +609,8 @@
     <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/exercice jQuery1 StormTrooper/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/index/js/helloJquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -675,27 +619,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/integrationweb1/sommatif3/index.html">
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/exercice jQuery1 StormTrooper/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="130" selection-start-line="130" selection-end-line="149" selection-end-column="6" />
+        <state relative-caret-position="795">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/index/js/helloJquery.js">
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="12" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="89" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/gabarit/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrationweb1/sommatif3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/exerciceMiseEnPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="94" column="57" selection-start-line="94" selection-start-column="57" selection-end-line="94" selection-end-column="57" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        <state relative-caret-position="544">
+          <caret line="32" column="92" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="92" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/js/monscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="93" column="47" lean-forward="true" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="47" />
+        <state relative-caret-position="238">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="94" column="56" lean-forward="true" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/js/monscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#344#352#0" />
+            <element signature="e#833#1254#0" />
+            <element signature="e#1308#1729#0" />
+          </folding>
         </state>
       </provider>
     </entry>
