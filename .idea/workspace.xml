@@ -175,19 +175,6 @@
               <item name="casseTete" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="flash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="flash" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -290,16 +277,15 @@
       <workItem from="1566850782516" duration="1785000" />
       <workItem from="1566911934197" duration="1640000" />
       <workItem from="1567116491736" duration="10041000" />
-      <workItem from="1567167887035" duration="4168000" />
+      <workItem from="1567167887035" duration="4214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252766000" />
+    <option name="totallyTimeSpent" value="252812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
