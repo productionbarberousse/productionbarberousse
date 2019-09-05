@@ -10,20 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="94" column="56" lean-forward="true" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="92" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="92" />
+            <state relative-caret-position="408">
+              <caret line="51" column="40" lean-forward="true" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -31,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/js/monscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="1751">
+              <caret line="103" column="70" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -46,16 +37,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/js/monscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+            <state relative-caret-position="719">
+              <caret line="131" column="84" selection-start-line="131" selection-start-column="84" selection-end-line="131" selection-end-column="84" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#344#352#0" />
-                <element signature="e#833#1254#0" />
-                <element signature="e#1308#1729#0" />
               </folding>
             </state>
           </provider>
@@ -127,8 +115,8 @@
         <option value="$PROJECT_DIR$/intégrationweb2/flash/index.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/flash/js/monscript.js" />
         <option value="$PROJECT_DIR$/intégrationweb2/casseTete/css/style.css" />
-        <option value="$PROJECT_DIR$/intégrationweb2/casseTete/index.html" />
         <option value="$PROJECT_DIR$/intégrationweb2/casseTete/js/monscript.js" />
+        <option value="$PROJECT_DIR$/intégrationweb2/casseTete/index.html" />
       </list>
     </option>
   </component>
@@ -143,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,7 +168,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,19 +179,19 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\img" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\javascript\js" />
-      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\casseTete\css" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\casseTete" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\css" />
       <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash\img" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\flash" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse\intégrationweb2\javascript\js" />
+      <recent name="E:\AEC - Design et web\www\productionbarberousse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,16 +266,19 @@
       <workItem from="1566911934197" duration="1640000" />
       <workItem from="1567116491736" duration="10041000" />
       <workItem from="1567167887035" duration="4214000" />
+      <workItem from="1567513940616" duration="1869000" />
+      <workItem from="1567715465559" duration="6656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252812000" />
+    <option name="totallyTimeSpent" value="261337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18763326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -333,13 +324,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/summervibe/relaxer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -647,13 +631,6 @@
         <state relative-caret-position="-357" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/integrationweb1/sommatif3/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -671,34 +648,41 @@
     <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" column="92" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="92" />
+          <caret line="32" column="92" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="92" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/img/img1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/flash/js/monscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="1751">
+          <caret line="103" column="70" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/index.html">
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="94" column="56" lean-forward="true" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="56" />
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/js/monscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+        <state relative-caret-position="719">
+          <caret line="131" column="84" selection-start-line="131" selection-start-column="84" selection-end-line="131" selection-end-column="84" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#344#352#0" />
-            <element signature="e#833#1254#0" />
-            <element signature="e#1308#1729#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intégrationweb2/casseTete/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="51" column="40" lean-forward="true" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
         </state>
       </provider>
     </entry>

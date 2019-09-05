@@ -3,12 +3,11 @@
 /********* DÉCLARATION DES VARIABLE COMMUNE A TOUS *********/
 
 var clicun;
-var clicdeux;
 var imageunSRC;
 var imagedeuxSRC;
 var imageunID;
 var imagedeuxID;
-var compteur;
+
 
 /* valeur des variable*/
 
@@ -37,6 +36,9 @@ $("#nouvellepartie").click(function () {
     $('#img7').show();
     $('#img8').show();
     $('#img9').show();
+    $('#photocontainer').attr('src' , '');
+    $('#victoire').html("")
+
 
 })
 
@@ -60,6 +62,8 @@ $("#recommencer").click(function () {
     $('#img7').show();
     $('#img8').show();
     $('#img9').show();
+    $('#photocontainer').attr('src' , '');
+    $('#victoire').html("")
 
 })
 
@@ -83,39 +87,72 @@ $("#tricherie").click(function () {
     $('#img7').show();
     $('#img8').show();
     $('#img9').show();
+    $('#photocontainer').attr('src' , '');
+    $('#victoire').html("")
 
 })
 
 
 clicun = true ;
 
-$(".img-fluid").click(function () {
-        imageunSRC = this.src;
-        imageunID = this.id;
-    if (clicun) {
-         $("#"+imageunID) .hide();
-         $("#"+imageunID) .attr('src' , '');
-        clicun=false;
+        $(".img-fluid").click(function () {
+
+            if (clicun) {
+                imageunSRC = this.src;
+                imageunID = this.id;
+                 $("#"+imageunID) .hide();
+                clicun=false;
+            }
+
+            else {
+                imagedeuxID = this.id;
+                imagedeuxSRC = this.src;
+                $("#"+imageunID) .attr('src' ,imagedeuxSRC);
+                $("#"+imagedeuxID) .attr('src' ,imageunSRC);
+                $("#"+imageunID) .show();
+                clicun=true;
+                victoire();
+
+            }
+
+        });
+
+function victoire() {
+        if($('#img1').attr('src') === ("img/img1.jpg"));{
+            if($('#img2').attr('src') === ("img/img2.jpg"));{
+                if($('#img3').attr('src') === ("img/img3.jpg"));{
+                    if($('#img4').attr('src') === ("img/img4.jpg"));{
+                        if($('#img5').attr('src') === ("img/img5.jpg")); {
+                            if($('#img6').attr('src') === ("img/img6.jpg"));{
+                                if($('#img7').attr('src') === ("img/img7.jpg"));{
+                                    if($('#img8').attr('src') === ("img/img8.jpg"));{
+                                        if($('#img9').attr('src') === ("img/img9.jpg"));{
+                                        $('#img1').hide();
+                                        $('#img2').hide();
+                                        $('#img3').hide();
+                                        $('#img4').hide();
+                                        $('#img5').hide();
+                                        $('#img6').hide();
+                                        $('#img7').hide();
+                                        $('#img8').hide();
+                                        $('#img9').hide();
+                                        $('#photocontainer').attr('src' , 'img/victore.jpg');
+                                        $('#victoire').html("VICTOIRE")
+
+
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
     }
-
-    else {
-        imagedeuxID = this.id;
-        imagedeuxSRC = this.src;
-        $("#"+imageunID) .attr('src' , imagedeuxSRC);
-        $("#"+imagedeuxID) .attr('src' , imageunSRC);
-        $("#"+imageunID) .show();
-        clicun=true;
-
-    }
-
-
-});
+  }
+}
 
 
 
+/*
 
-
-
-
-
-
+*/
