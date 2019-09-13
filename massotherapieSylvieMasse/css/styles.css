@@ -23,8 +23,31 @@ p
 }
 .noir
 {
-    color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,1);
 }
+.white
+{
+    color: white;
+}
+.icons
+{
+    max-width: 200px ;
+}
+
+.policeprincipal
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+.h1upgrade
+{
+    font-size: 50px;
+}
+
+
+
+
+
 /*************************************************************************
 **********************BAR DE NAVIGATION COULEUR TWBS**********************
 ************************************************************************* */
