@@ -21,6 +21,13 @@ p
     background-position: center;
     background-repeat: no-repeat;
 }
+.photobg2
+{
+    background-image: url("../img/présentation 2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 .noir
 {
     background-color: rgba(0,0,0,1);
@@ -33,7 +40,10 @@ p
 {
     max-width: 200px ;
 }
-
+.imagedepub
+{
+    max-width: 600px ;
+}
 .policeprincipal
 {
     font-family: 'Oswald', sans-serif;
@@ -44,6 +54,37 @@ p
     font-size: 50px;
 }
 
+.carousel-indicators li {
+    background-color : rgb(128,200,255);
+}
+.carousel-indicators .active {
+    background-color : rgb(56,161,98);
+}
+.policepage
+{
+    font-size: 80px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: rgb(128,200,255);
+    border-color: rgb(128,200,255);
+
+}
+.btn-success {
+    color: #fff;
+    background-color: rgb(56,161,98);
+    border-color: rgb(56,161,98);
+}
+.btn {
+
+    font-size: 25px;
+
+}
+.nav-item
+{
+    font-size: 25px;
+}
 
 
 
