@@ -10,11 +10,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="340">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="793">
+              <caret line="3624" column="1" selection-start-line="3624" selection-start-column="1" selection-end-line="3624" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="811">
+              <caret line="536" lean-forward="true" selection-start-line="536" selection-end-line="536" />
             </state>
           </provider>
         </entry>
@@ -90,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/intégrationweb2/summervibe/footer.php" />
         <option value="$PROJECT_DIR$/intégrationweb2/summervibe/css/style.css" />
         <option value="$PROJECT_DIR$/intégrationweb2/summervibe/header.php" />
         <option value="$PROJECT_DIR$/intégrationweb2/summervibe/sport.php" />
@@ -129,9 +146,7 @@
         <option value="$PROJECT_DIR$/intégrationweb2/casseTete/js/monscript.js" />
         <option value="$PROJECT_DIR$/integrationweb1/bonjourBootsStrap/css/style.css" />
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/formulaire envoyer.html" />
-        <option value="$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.min.js" />
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.min.css" />
-        <option value="$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.css" />
         <option value="$PROJECT_DIR$/intégrationweb2/navbar/index.html" />
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/massage.html" />
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/js/monscript.js" />
@@ -139,8 +154,11 @@
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/atelier.html" />
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/contact.html" />
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/formulaireEnvoyer.html" />
-        <option value="$PROJECT_DIR$/massotherapieSylvieMasse/index.html" />
         <option value="$PROJECT_DIR$/massotherapieSylvieMasse/css/styles.css" />
+        <option value="$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.min.js" />
+        <option value="$PROJECT_DIR$/massotherapieSylvieMasse/index.html" />
+        <option value="$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.css" />
+        <option value="$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.js" />
       </list>
     </option>
   </component>
@@ -167,36 +185,6 @@
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
               <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
               <item name="integrationweb1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="casseTete" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="casseTete" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="mediaquery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="productionbarberousse" type="462c0819:PsiDirectoryNode" />
-              <item name="intégrationweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="navbar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="productionbarberousse" type="b2602c69:ProjectViewProjectNode" />
@@ -340,12 +328,12 @@
       <workItem from="1568664725568" duration="270000" />
       <workItem from="1568756758681" duration="7328000" />
       <workItem from="1568992483208" duration="1202000" />
-      <workItem from="1569360018043" duration="12895000" />
+      <workItem from="1569360018043" duration="13789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304782000" />
+    <option name="totallyTimeSpent" value="305676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -397,17 +385,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/exercice jQuery1 StormTrooper/Bootstrap/js/monscript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intégrationweb2/exercice jQuery1 StormTrooper/css/styles.css" />
     <entry file="file://$PROJECT_DIR$/intégrationweb2/index/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -592,27 +569,6 @@
         <state relative-caret-position="-5231" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6201">
-          <caret line="379" column="5" lean-forward="true" selection-start-line="379" selection-start-column="5" selection-end-line="379" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="3598" column="1" lean-forward="true" selection-start-line="3598" selection-start-column="1" selection-end-line="3598" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intégrationweb2/bibliotheque/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -692,10 +648,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="12" lean-forward="true" selection-end-line="415" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="340">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="3624" column="1" selection-start-line="3624" selection-start-column="1" selection-end-line="3624" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/massotherapieSylvieMasse/js/wow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="536" lean-forward="true" selection-start-line="536" selection-end-line="536" />
         </state>
       </provider>
     </entry>
