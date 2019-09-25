@@ -44,6 +44,10 @@ p
 {
     max-width: 600px ;
 }
+.imagelogo
+{
+    max-width: 400px ;
+}
 .policeprincipal
 {
     font-family: 'Oswald', sans-serif;
@@ -84,6 +88,23 @@ p
 .nav-item
 {
     font-size: 25px;
+}
+@media screen and (min-height: 300px)and (max-width: 568px)
+{
+    .policepage
+    {
+        font-size: 50px;
+    }
+
+    .imagelogo
+    {
+        max-width: 200px ;
+    }
+    h3
+    {
+        font-size: 25px ;
+    }
+
 }
 
 
